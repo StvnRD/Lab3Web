@@ -69,6 +69,14 @@
 + Gunakan perintah yang ditandai untuk memanggil file CSS yang dibuat, ganti nama <i>style3.css</i> pada link sesuai dengan nama CSS yang dibuat agar file CSS dapat terpanggil.
   
 ![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114277198-6c4f5180-9a54-11eb-81ce-ed1a9c2e00cd.JPG)
+</br>
+</br>
+
+# **Menampilkan Dropdown menu dan Listbox dengan Multiple selection**
+
++ Contoh kode dan perubahannya, tidak ada perubahan pada CSS.
+
+![7 Dropdown dan Listbox Multiple Screen](https://user-images.githubusercontent.com/56438848/114279888-04ebce80-9a61-11eb-9439-f741b2f79cb7.JPG)
 
 </br>
 </br>
