@@ -1,19 +1,10 @@
 # **PRAKTIKUM 3 : HTML Lanjutan (List, Tabel, Form)**<br/>
 </br>
 
-# **Membuat Dokumen HTML**
-
-+ Buat dokumen HTML baru dengan VSCode, beri nama <i>lab3_list.html</i>
-+ Ketikkan kode seperti berikut.
-
-![0](https://user-images.githubusercontent.com/56438848/114274141-4c656100-9a47-11eb-83dd-ff2fc9b284e2.JPG)
-</br>
-</br>
-
 # **Membuat Ordered List**
 
 + Tambahkan kode berikut, save dan reload halaman web.
-![1 Oredered List](https://user-images.githubusercontent.com/56438848/114274052-dfea6200-9a46-11eb-90b2-11aa5d59006a.JPG)
+![1 Oredered List](https://user-images.githubusercontent.com/56438848/114280777-2bac0400-9a65-11eb-97a3-f708e09ed7d8.JPG)
 </br>
 </br>
 
@@ -22,7 +13,7 @@
 + Tambahkan kode berikut setelah deklarasi <i>Ordered List</i> untuk menambahkan <i>Unordered List</i>.
 + Save dan reload halaman web.
 
-![2 Unoredered List](https://user-images.githubusercontent.com/56438848/114274055-e4af1600-9a46-11eb-8e9d-bb3ba36ebe8f.JPG)
+![2 Unoredered List](https://user-images.githubusercontent.com/56438848/114280780-2e0e5e00-9a65-11eb-8f80-240edff05f8a.JPG)
 </br>
 </br>
 
@@ -31,7 +22,7 @@
 + Tambahkan kode setelah deklarasi <i>Unordered List</i>.
 + Save dan reload halaman web.
 
-![3  Description List](https://user-images.githubusercontent.com/56438848/114274058-e7aa0680-9a46-11eb-8ffc-0bca50e05950.JPG)
+![3  Description List](https://user-images.githubusercontent.com/56438848/114280783-323a7b80-9a65-11eb-9ada-7a55596a27b4.JPG)
 </br>
 </br>
 
@@ -39,7 +30,7 @@
 
 + Buat file HTML baru dengan nama <b>lab3_tabel.html</b>, masukkan kode dibawah ini. Save dan reload halaman web.
 
-![4 Membuat Table](https://user-images.githubusercontent.com/56438848/114274067-ee387e00-9a46-11eb-9dcf-e73e60b9608e.JPG)
+![4 Membuat Table](https://user-images.githubusercontent.com/56438848/114280785-34043f00-9a65-11eb-840a-7def03386059.JPG)
 </br>
 + Angka pada <b><i>Border</i></b>, <b><i>Cellpading</i></b>, dan <b><i>Cellspacing</i></b> dapat diubah.
 + <b>Border</b> digunakan untuk mengatur ketebalan garis tabel. Jika atribut ini tidak ditulis, maka web browser akan menampilkan tabel tanpa garis tepi.
@@ -51,7 +42,7 @@
 
 + Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut <b><i>Rowspan</i></b> untuk menggabungkan baris (vertikal) dan <b><i>Colspan</i></b> untuk menggabungkan kolom (horizontal).
 
-![5 Menggabungkan Sel Data](https://user-images.githubusercontent.com/56438848/114274070-f1336e80-9a46-11eb-9bf4-785128fe932e.JPG)
+![5 Menggabungkan Sel Data](https://user-images.githubusercontent.com/56438848/114280788-35ce0280-9a65-11eb-9adc-94febc2c28e3.JPG)
 </br>
 
 # **Membuat Form**
