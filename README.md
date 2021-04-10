@@ -68,7 +68,7 @@
 + Buat file CSS baru dengan nama bebas, disini saya menggunakan nama <i>style3.css</i>
 + Gunakan perintah yang ditandai untuk memanggil file CSS yang dibuat, ganti nama <i>style3.css</i> pada link sesuai dengan nama CSS yang dibuat agar file CSS dapat terpanggil.
   
- ![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114275903-7d955f80-9a4e-11eb-979c-4fe664cf32c2.JPG)
+![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114277198-6c4f5180-9a54-11eb-81ce-ed1a9c2e00cd.JPG)
 
 </br>
 </br>
