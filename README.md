@@ -13,7 +13,6 @@
 # **Membuat Ordered List**
 
 + Tambahkan kode berikut, save dan reload halaman web.
-+ 
 ![1 Oredered List](https://user-images.githubusercontent.com/56438848/114274052-dfea6200-9a46-11eb-90b2-11aa5d59006a.JPG)
 </br>
 </br>
