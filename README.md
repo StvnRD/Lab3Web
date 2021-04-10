@@ -70,4 +70,6 @@
   
  ![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114275903-7d955f80-9a4e-11eb-979c-4fe664cf32c2.JPG)
 
-
+</br>
+</br>
+<b><i>Jangan lupa untuk selalu menyimpan setiap perubahan yang dilakukan</i></b>
