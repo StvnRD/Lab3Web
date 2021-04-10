@@ -49,7 +49,7 @@
 
 + Buat file HTML baru dengan nama <b>lab3_form.html</b>, masukkan kode dibawah ini. Save dan reload halaman web.
 
-![6 Membuat Form](https://user-images.githubusercontent.com/56438848/114274073-f395c880-9a46-11eb-8e7f-46ad04194ff7.JPG)
+![6 Membuat Form](https://user-images.githubusercontent.com/56438848/114281126-d40e9800-9a66-11eb-9ca8-95469938fec6.JPG)
 </br>
 </br>
 
@@ -58,7 +58,7 @@
 + Buat file CSS baru dengan nama bebas, disini saya menggunakan nama <i>style3.css</i>
 + Gunakan perintah yang ditandai untuk memanggil file CSS yang dibuat, ganti nama <i>style3.css</i> pada link sesuai dengan nama CSS yang dibuat agar file CSS dapat terpanggil.
   
-![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114277198-6c4f5180-9a54-11eb-81ce-ed1a9c2e00cd.JPG)
+![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114281127-d5d85b80-9a66-11eb-9122-c2fd3866c6da.JPG)
 </br>
 </br>
 
