@@ -3,7 +3,7 @@
 
 # **Membuat Dokumen HTML**
 
-+ Buat dokumen baru dengan VSCode, beri nama lab3_list.html
++ Buat dokumen HTML baru dengan VSCode, beri nama <i>lab3_list.html</i>
 + Ketikkan kode seperti berikut.
 
 ![0](https://user-images.githubusercontent.com/56438848/114274141-4c656100-9a47-11eb-83dd-ff2fc9b284e2.JPG)
@@ -38,7 +38,7 @@
 
 # **Membuat Tabel**
 
-+ Buat file HTML baru dengan nama <b>lab3_tabel</b>, masukkan kode dibawah ini. Save dan reload halaman web.
++ Buat file HTML baru dengan nama <b>lab3_tabel.html</b>, masukkan kode dibawah ini. Save dan reload halaman web.
 
 ![4 Membuat Table](https://user-images.githubusercontent.com/56438848/114274067-ee387e00-9a46-11eb-9dcf-e73e60b9608e.JPG)
 </br>
@@ -57,7 +57,7 @@
 
 # **Membuat Form**
 
-+ Buat file HTML baru dengan nama <b>lab3_form</b>, masukkan kode dibawah ini. Save dan reload halaman web.
++ Buat file HTML baru dengan nama <b>lab3_form.html</b>, masukkan kode dibawah ini. Save dan reload halaman web.
 
 ![6 Membuat Form](https://user-images.githubusercontent.com/56438848/114274073-f395c880-9a46-11eb-8e7f-46ad04194ff7.JPG)
 </br>
@@ -65,5 +65,10 @@
 
 # **Menambahkan Style pada Form Login**
 
-+
++ Buat file CSS baru dengan nama bebas, disini saya menggunakan nama <i>style3.css</i>
++ Gunakan perintah yang ditandai untuk memanggil file CSS yang dibuat, ganti nama <i>style3.css</i> pada link sesuai dengan nama CSS yang dibuat.</br>
+  agar file CSS dapat terpanggil.
+  
+ ![6 Menambah Style CSS](https://user-images.githubusercontent.com/56438848/114275903-7d955f80-9a4e-11eb-979c-4fe664cf32c2.JPG)
+
 
